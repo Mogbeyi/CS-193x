@@ -1,0 +1,21 @@
+/* .hw p {
+    color: green
+}
+
+.hw {
+    border: 2px solid green;
+    display: inline-block;
+}
+
+body {
+    text-align: center;
+} */
+
+div {
+    display: inline-block;
+    background-color: yellow;
+}
+/* 
+body {
+    margin: 0
+} */

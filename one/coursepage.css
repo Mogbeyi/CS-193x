@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	font-family: helvetica;
+}
+
+div {
+	border: 3px solid hotpink;
+	background-color: lavenderblush;
+	margin-bottom: 10px;
+	display: inline-block
+}
+
+span {
+	background-color: yellow
+}
+
+a {
+	display: block;
+}
