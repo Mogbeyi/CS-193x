@@ -1,0 +1,52 @@
+: 1626120476:0;ls
+: 1626120479:0;cat three.html
+: 1626120493:0;vim three.html
+: 1626120510:0;ls
+: 1626120520:0;cat three.html
+: 1626120529:0;vim three.css
+: 1626120543:0;open three.html
+: 1626120555:0;clear
+: 1626120555:0;ls
+: 1626120559:0;cat three.css
+: 1626120577:0;vim three.css
+: 1626120736:0;clear
+: 1626168342:0;git --version
+: 1626170328:0;vim test.py
+: 1626170429:0;python test.py
+: 1626170432:0;vim test.py
+: 1626170446:0;python test.py
+: 1626170455:0;vim test.py
+: 1626170676:0;rm test.py
+: 1626170677:0;clear
+: 1626170688:0;vim test.py
+: 1626170774:0;python test.py
+: 1626170778:0;vim test.py
+: 1626170917:0;python test.py
+: 1626170922:0;vim test.py
+: 1626171063:0;rm test.py
+: 1626171864:0;vim fact.py
+: 1626171895:0;python fact.py
+: 1626171898:0;vim fact.py
+: 1626171959:0;python fact.py
+: 1626171983:0;rm fact.py
+: 1626182689:0;clear
+: 1626182690:0;ls
+: 1626182696:0;vim arr.c
+: 1626182708:0;ls
+: 1626182714:0;vim arr.c
+: 1626182838:0;cc -o arr arr.c
+: 1626182855:0;vim arr.c
+: 1626182925:0;cc -o arr arr.c
+: 1626182937:0;vim arr.c
+: 1626182959:0;cc -o arr arr.c
+: 1626182967:0;vim arr
+: 1626182980:0;./arr
+: 1626183074:0;vim arr.c
+: 1626183095:0;clear
+: 1626184197:0;python
+: 1626184259:0;clear
+: 1626188253:0;ls
+: 1626188257:0;rm arr
+: 1626188258:0;ls
+: 1626188261:0;rm arr.c
+: 1626253355:0;cd ../..
