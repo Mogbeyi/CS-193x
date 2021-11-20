@@ -1,0 +1,14 @@
+: 1637414859:0;ls
+: 1637414860:0;clear
+: 1637414886:0;mkdir css/style.css
+: 1637414893:0;mkdir css
+: 1637414899:0;mkdir images
+: 1637414901:0;cd css
+: 1637414923:0;ls
+: 1637414928:0;touch index.html
+: 1637416007:0;clear
+: 1637416008:0;ls
+: 1637416012:0;cd ..
+: 1637416020:0;touch .prettierrc
+: 1637416027:0;echo {} >> .prettierrc
+: 1637416261:0;git add .
